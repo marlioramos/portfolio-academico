@@ -1,7 +1,7 @@
 ﻿# 🎓 Portfólio Acadêmico e Repositório de Atividades
 
 > **Repositório acadêmico individual** destinado ao registro das Unidades Curriculares (UCs) e do Projeto Integrador (PI).
-> Organizado com base nos conceitos de **Arquitetura da Informação** (Classificação, Taxonomia, Metadados, Navegação e Encontrabilidade)[cite: 7].
+> Organizado com base nos conceitos de **Arquitetura da Informação** (Classificação, Taxonomia, Metadados, Navegação e Encontrabilidade)
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## 🗺️ Estrutura e Taxonomia (Navegação)
 
-A organização adota uma taxonomia numérica e temática para garantir consistência e rápida encontrabilidade[cite: 7]:
+A organização adota uma taxonomia numérica e temática para garantir consistência e rápida encontrabilidade
 
 | Código | Unidade Curricular / Módulo | Estado | Acesso Direto |
 | :---: | :--- | :---: | :---: |
@@ -31,7 +31,7 @@ A organização adota uma taxonomia numérica e temática para garantir consist�
 ---
 
 ## 🔍 Critérios de Arquitetura da Informação Aplicados
-- **Classificação:** Separação lógica por disciplina e projetos do período letivo[cite: 7].
+- **Classificação:** Separação lógica por disciplina e projetos do período letivo
 - **Taxonomia:** Padronização em minúsculas com hífen (kebab-case) e código numérico sequencial ordenado.
-- **Metadados:** Identificação explícita do aluno, semestre e disciplina no arquivo principal e nas subpastas[cite: 7].
-- **Navegação e Encontrabilidade:** Índice com hiperligações relativas diretas para todas as pastas de atividades[cite: 7].
+- **Metadados:** Identificação explícita do aluno, semestre e disciplina no arquivo principal e nas subpastas
+- **Navegação e Encontrabilidade:** Índice com hiperligações relativas diretas para todas as pastas de atividades
