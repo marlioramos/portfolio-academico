@@ -9,7 +9,7 @@
 - **Estudante:** Márlio Ramos
 - **Curso:** Análise e Desenvolvimento de Sistemas
 - **Período:** 5º Período (2026.2)
-- **Disciplina Base:** Gestão da Informação (Aula 5)[cite: 7]
+- **Disciplina Base:** Gestão da Informação (Aula 5)
 
 ---
 
